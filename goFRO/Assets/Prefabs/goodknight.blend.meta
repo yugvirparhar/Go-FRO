@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 5bfe7ae862405c44ea2aeb1717de0bcd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arm1_l
+    100002: arm1_r
+    100004: arm2_l
+    100006: arm2_r
+    100008: arm3_l
+    100010: arm3_r
+    100012: Armature
+    100014: Bone
+    100016: Bone_001
+    100018: Bone_002
+    100020: Bone_003
+    100022: Cube
+    100024: //RootNode
+    100026: leg1_l
+    100028: leg1_r
+    100030: leg2_l
+    100032: leg2_r
+    100034: leg3_l
+    100036: leg3_r
+    400000: arm1_l
+    400002: arm1_r
+    400004: arm2_l
+    400006: arm2_r
+    400008: arm3_l
+    400010: arm3_r
+    400012: Armature
+    400014: Bone
+    400016: Bone_001
+    400018: Bone_002
+    400020: Bone_003
+    400022: Cube
+    400024: //RootNode
+    400026: leg1_l
+    400028: leg1_r
+    400030: leg2_l
+    400032: leg2_r
+    400034: leg3_l
+    400036: leg3_r
+    2100000: Armour_1_Mat
+    2100002: Armour_mat_2
+    2100004: Body_Mat
+    2100006: Armour_1_Mat_Dark_001
+    2100008: Glove_Mat
+    2100010: Glove_Main_001
+    2100012: ChestPlate
+    2100014: Silver_Mat
+    4300000: Cube
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: Cube
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Armour_1_Mat
+    second: {fileID: 2100000, guid: 0fcf3a6322c08404fa3dbf88a62a07e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Armour_1_Mat_Dark_001
+    second: {fileID: 2100000, guid: e9ed624adbe59ee4aaf35f649bb49458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Armour_mat_2
+    second: {fileID: 2100000, guid: 3b23f187eb98e9c44850140806dd1053, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_Mat
+    second: {fileID: 2100000, guid: a95f8a0d945fb824ebf57ffec8ab4a52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChestPlate
+    second: {fileID: 2100000, guid: 2b94bcd227371554d8148d1c4b0f2f2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glove_Main_001
+    second: {fileID: 2100000, guid: 6dfb154b47093b94b9e8c687a4fd4b6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glove_Mat
+    second: {fileID: 2100000, guid: 2362f2b4dea671b428b5ecf8f616a84a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver_Mat
+    second: {fileID: 2100000, guid: 9f88f6de7459cae45b0620d7967499d0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
